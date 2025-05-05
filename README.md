@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 
+
+I'm **Kire Tripunovski**, a passionate **Frontend Developer** specializing in:
 
 <!--
 **KireTripunovski/KireTripunovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
