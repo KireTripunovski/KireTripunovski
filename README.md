@@ -1,6 +1,8 @@
-# Hi there 👋 
-
-I'm **Kire Tripunovski**, a passionate **Frontend Developer** specializing in:
+<p style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; font-size: 24px;">
+  Hi there 👋 
+  <br>
+  I'm <strong>Kire Tripunovski</strong>
+</p>
 
 <!--
 **KireTripunovski/KireTripunovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
