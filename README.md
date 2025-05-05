@@ -1,5 +1,4 @@
-![header]
-<p style="background-color: #fffae6; padding: 10px; border-radius: 5px; font-size: 24px;">
+![header]<p style="background-color: #fffae6; padding: 10px; border-radius: 5px; font-size: 24px;">
   Hi there 👋 
   <br>
   I'm <strong>Kire Tripunovski</strong>
