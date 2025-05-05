@@ -1,4 +1,4 @@
-<p style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; font-size: 24px;">
+<p style="background-color: #fffae6; padding: 10px; border-radius: 5px; font-size: 24px;">
   Hi there 👋 
   <br>
   I'm <strong>Kire Tripunovski</strong>
