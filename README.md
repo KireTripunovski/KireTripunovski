@@ -14,13 +14,33 @@ practices in all my work.
 
 
 ## 😄 About me
+- 💡 Focused on clean code, usability, and performance
+- ⚛️ Comfortable with component-based development using **React.js** and **Next.js**
+- 🛠 Experienced in building responsive layouts with **HTML, CSS, Tailwind CSS, Bootstrap**
+- 🌱 Continuously learning and improving my skills in **JavaScript**, **TypeScript**, **React.js** and **Next.js**
+- 🤝 Always open to new opportunities, challenges, and collaborations
+
+
+ ---
+
+
+ ## 🚀 Skills
+
+**Languages & Frameworks** 
+-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,js,ts,react,nextjs)](https://skillicons.dev)
+
+**Tools & Soft Skills**  
+🛠 Git & GitHub | 🎯 Problem Solving | 🤝 Team Collaboration | 🗣 Effective Communication | ⏱ Time Management | 🔍 Attention to Detail
+
+---
+
 <!--
 **KireTripunovski/KireTripunovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
