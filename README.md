@@ -4,7 +4,7 @@
   I'm <strong>Kire Tripunovski</strong>
 </p>
 
---
+---
 
 
 **Front-End Developer** with a passion for writing clean, efficient,responsive,user-friendly and maintainable code, I strive to apply best
